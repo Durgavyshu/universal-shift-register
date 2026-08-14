@@ -1,0 +1,7 @@
+|  Time | Select | Operation     |    Q   |
+| ----: | :----: | ------------- | :----: |
+|  0 ns |   00   | Reset         | `0000` |
+| 10 ns |   11   | Parallel Load | `1010` |
+| 20 ns |   01   | Shift Right   | `1101` |
+| 30 ns |   10   | Shift Left    | `1010` |
+| 40 ns |   00   | Hold          | `1010` |
